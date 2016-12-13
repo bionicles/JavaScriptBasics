@@ -1,0 +1,55 @@
+#container {
+	width: 970px;
+	display: block;
+	background-color: darkblue;
+	padding: 10px;
+}
+
+#top {
+	display: block;
+	background-color: red;
+	border-radius: 30px;
+	margin-bottom: 10px;
+	padding: 25px;
+	color: silver;
+	font-size: 30pt;
+}
+
+#middle {
+	display: block;
+	margin: 20px 10px 20px 10px;
+}
+
+#nav {
+	display: inline-block;
+	background-color: aqua;
+	border-radius: 30px;
+	padding: 15px;
+	margin-bottom: 100px;
+	text-decoration: underline;
+	color: blue;
+	vertical-align: top;
+}
+
+#content {
+	display: inline-block;
+	width: 660px;
+	background-color: black;
+	color: silver;
+	border-radius: 30px;
+	padding: 15px;
+	vertical-align: top;
+	margin-left: 10px;
+}
+
+#foot {
+	display: block;
+	background-color: grey;
+	border-radius: 30px;
+	padding: 25px;
+	margin-top: 10px;
+}
+
+.colorized {
+	color: purple;
+}
